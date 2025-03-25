@@ -12,5 +12,6 @@ ATM Class:
 -Includes a run() method to display the ATM menu and allow users to interact with their accounts.
 
 Main Function:
+
 -Creates an ATM object and adds some sample accounts.
 -Handles the login process and gives users access to their account features after successful authentication.
