@@ -20,3 +20,15 @@ Main Function:
 -Creates an ATM object and adds some sample accounts.
 
 -Handles the login process and gives users access to their account features after successful authentication.
+
+Additional Features:
+
+Check Balance: Displays the current account balance.
+
+Deposit Money: Adds money to the account and updates the transaction history.
+
+Withdraw Money: Deducts money if sufficient balance is available.
+
+Transaction History: Shows a list of all deposits and withdrawals.
+
+Logout: Ends the current user session.
