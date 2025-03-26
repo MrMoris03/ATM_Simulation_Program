@@ -9,4 +9,5 @@ class Account{
 	private:
 		string accountHolder;
 		string pin;
+		double balance;
 };
