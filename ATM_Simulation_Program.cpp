@@ -12,4 +12,5 @@ class Account{
 		double balance;
 		vector<string> transactionHistory;
 		
+	public:
 };
