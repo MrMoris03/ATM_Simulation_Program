@@ -10,4 +10,5 @@ class Account{
 		string accountHolder;
 		string pin;
 		double balance;
+		vector<string> transactionHistory;
 };
