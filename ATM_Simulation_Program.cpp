@@ -7,7 +7,7 @@ using namespace std;
 // Account class
 class Account{
 	private:
-		string accountHolder;
+		string accountHolder; //Person with access to current account
 		string pin;
 		double balance;
 		vector<string> transactionHistory;
