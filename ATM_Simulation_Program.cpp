@@ -19,4 +19,5 @@ class Account{
 			balance = initialBalance;
 		}
 		
+		bool
 };
