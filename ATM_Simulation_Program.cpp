@@ -13,5 +13,5 @@ class Account{
 		vector<string> transactionHistory;	//Vector to store account transactions history
 		
 	public:
-		Account(string holder, string accountPin,
+		Account(string holder, string accountPin, double initialBalance)
 };
