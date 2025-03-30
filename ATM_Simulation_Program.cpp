@@ -22,4 +22,5 @@ class Account{
 		bool verifyPin(string enteredPin){
 			return pin == enteredPin;
 		}
+		
 };
