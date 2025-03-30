@@ -13,4 +13,5 @@ class Account{
 		vector<string> transactionHistory;	//Vector to store account transactions history
 		
 	public:
+		Account(string holder,
 };
