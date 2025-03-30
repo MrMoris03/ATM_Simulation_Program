@@ -23,5 +23,7 @@ class Account{
 			return pin == enteredPin;
 		}
 		
-		double checkBalance()
+		double checkBalance() {
+			
+		}
 };
