@@ -19,5 +19,5 @@ class Account{
 			balance = initialBalance;
 		}
 		
-		bool verifyPin()
+		bool verifyPin(string enteredPin)
 };
