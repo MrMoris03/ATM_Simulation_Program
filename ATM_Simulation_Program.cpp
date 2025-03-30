@@ -24,6 +24,6 @@ class Account{
 		}
 		
 		double checkBalance() {
-			
+			return balance;
 		}
 };
