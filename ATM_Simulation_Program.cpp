@@ -14,6 +14,7 @@ class Account{
 		
 	public:
 		Account(string holder, string accountPin, double initialBalance) {
-			accountHolder = holder
+			accountHolder = holder;
+			
 		}
 };
