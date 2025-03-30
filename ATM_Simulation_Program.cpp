@@ -16,6 +16,6 @@ class Account{
 		Account(string holder, string accountPin, double initialBalance) {
 			accountHolder = holder;
 			pin = accountPin;
-			balance = initialBalance
+			balance = initialBalance;
 		}
 };
