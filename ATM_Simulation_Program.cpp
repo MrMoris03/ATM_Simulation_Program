@@ -18,4 +18,5 @@ class Account{
 			pin = accountPin;
 			balance = initialBalance;
 		}
+		
 };
