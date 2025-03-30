@@ -20,6 +20,6 @@ class Account{
 		}
 		
 		bool verifyPin(string enteredPin){
-			return pin
+			return pin == enteredPin;
 		}
 };
