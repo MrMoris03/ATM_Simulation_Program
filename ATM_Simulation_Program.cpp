@@ -28,6 +28,7 @@ class Account{
 		}
 		
 		void deposit(double amount){
-			
+			if (){
+			}
 		}
 };
