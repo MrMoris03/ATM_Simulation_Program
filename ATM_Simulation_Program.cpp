@@ -27,7 +27,7 @@ class Account{
 			return balance;
 		}
 		
-		void deposit(){
+		void deposit(double amount){
 			
 		}
 };
