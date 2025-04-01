@@ -27,8 +27,8 @@ class Account{
 			return balance;
 		}
 		
-		void deposit(double amount){
-			if (amount > 0){
+		void deposit(double amount) {
+			if (amount > 0) {
 				
 			}
 		}
