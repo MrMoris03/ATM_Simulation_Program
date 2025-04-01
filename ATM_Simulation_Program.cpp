@@ -29,7 +29,7 @@ class Account{
 		
 		void deposit(double amount) {
 			if (amount > 0) {
-				balance = balance - amount 
+				balance = balance + amount;
 			}
 		}
 };
