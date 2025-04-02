@@ -31,7 +31,7 @@ class Account{
 			if (amount > 0) {
 				balance = balance + amount;
 				transactionHistory.push_back("Deposited: $" + to_string(amount));
-				cout << "Deposit successful! New balance: $"
+				cout << "Deposit successful! New balance: $" << balance
 			}
 		}
 };
