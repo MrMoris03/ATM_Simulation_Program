@@ -30,7 +30,7 @@ class Account{
 		void deposit(double amount) {
 			if (amount > 0) {
 				balance = balance + amount;
-				transactionHistory.push_back("Deposited: $" + to_string(amount))
+				transactionHistory.push_back("Deposited: $" + to_string(amount));
 			}
 		}
 };
