@@ -37,7 +37,7 @@ class Account{
 			}
 		}
 		
-		void withdraw() {
+		void withdraw(double amount) {
 			
 		}
 };
