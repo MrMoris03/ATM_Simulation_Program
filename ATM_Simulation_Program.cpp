@@ -38,7 +38,7 @@ class Account{
 		}
 		
 		void withdraw(double amount) {
-			if () {
+			if (amount > 0) {
 				
 			}
 		}
