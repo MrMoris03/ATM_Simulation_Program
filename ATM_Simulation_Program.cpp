@@ -40,7 +40,7 @@ class Account{
 		void withdraw(double amount) {
 			if (amount > 0 && amount <= balance) {
 				balance = balance - amount;
-				transactionHistory.push_back("Withdrew: $")
+				transactionHistory.push_back("Withdrew: $" + )
 			}
 		}
 };
