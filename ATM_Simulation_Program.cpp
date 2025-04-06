@@ -41,7 +41,7 @@ class Account{
 			if (amount > 0 && amount <= balance) {
 				balance = balance - amount;
 				transactionHistory.push_back("Withdrew: $" + to_string(amount));
-				cout << "Withdrawal successful!"
+				cout << "Withdrawal successful! New balance: $"
 			}
 		}
 };
