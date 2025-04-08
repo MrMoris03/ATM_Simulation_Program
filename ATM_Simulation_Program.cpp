@@ -44,6 +44,7 @@ class Account{
 				cout << "Withdrawal successful! New balance: $" << balance << endl;
 			} else if (amount > balance) {
 				cout << "Insufficient funds!" << endl;
-			} else
+			} else {
+			}
 		}
 };
