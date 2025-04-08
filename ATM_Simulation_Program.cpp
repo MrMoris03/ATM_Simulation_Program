@@ -43,7 +43,7 @@ class Account{
 				transactionHistory.push_back("Withdrew: $" + to_string(amount));
 				cout << "Withdrawal successful! New balance: $" << balance << endl;
 			} else if (amount > balance) {
-				cout << ""
+				cout << "Insuff"
 			}
 		}
 };
