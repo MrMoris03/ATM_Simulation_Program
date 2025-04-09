@@ -48,4 +48,5 @@ class Account{
 				cout << "Invalid amount for withdrawal!" << endl;
 			}
 		}
+		
 };
