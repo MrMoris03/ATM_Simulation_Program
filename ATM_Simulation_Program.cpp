@@ -49,5 +49,5 @@ class Account{
 			}
 		}
 		
-		void view
+		void viewTransaction
 };
