@@ -45,7 +45,7 @@ class Account{
 			} else if (amount > balance) {
 				cout << "Insufficient funds!" << endl;
 			} else {
-				cout << "Invalid"
+				cout << "Invalid amount"
 			}
 		}
 };
