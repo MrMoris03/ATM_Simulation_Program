@@ -50,6 +50,6 @@ class Account{
 		}
 		
 		void viewTransactionHistory() {
-			cout
+			cout <<
 		}
 };
