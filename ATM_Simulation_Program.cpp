@@ -49,5 +49,6 @@ class Account{
 			}
 		}
 		
-		void viewTransactionHistory()
+		void viewTransactionHistory() {
+		}
 };
