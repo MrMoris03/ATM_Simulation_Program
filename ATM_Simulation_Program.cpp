@@ -51,5 +51,6 @@ class Account{
 		
 		void viewTransactionHistory() {
 			cout << "Transaction History:" << endl;
+			
 		}
 };
