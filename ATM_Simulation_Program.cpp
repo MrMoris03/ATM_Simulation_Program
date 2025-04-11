@@ -51,6 +51,6 @@ class Account {
 
 		void viewTransactionHistory() {
 			cout << "Transaction History:" << endl;
-			for (const auto &transaction : transction)
+			for (const auto &transaction : transctionHist)
 		}
 };
