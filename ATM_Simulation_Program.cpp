@@ -52,7 +52,7 @@ class Account {
 		void viewTransactionHistory() {
 			cout << "Transaction History:" << endl;
 			for (const auto &transaction : transctionHistory) {
-				cout
+				cout <<
 			}
 		}
 };
