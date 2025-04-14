@@ -57,7 +57,7 @@ class Account {
 		}
 };
 
-//
+//ATM
 class ATM {
 	
 };
