@@ -60,5 +60,5 @@ class Account {
 //ATM class
 class ATM {
 	private:
-		vector<Account>
+		vector<Account> acc
 };
