@@ -63,5 +63,5 @@ class ATM {
 		vector<Account> accounts;
 		Account* currentAccount;
 		
-		public
+	public
 };
