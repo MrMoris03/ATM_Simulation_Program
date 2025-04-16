@@ -65,6 +65,6 @@ class ATM {
 		
 	public:
 		ATM() {
-			currentAcc
+			currentAccount
 		}
 };
