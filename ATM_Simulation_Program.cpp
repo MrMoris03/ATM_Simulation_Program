@@ -64,5 +64,6 @@ class ATM {
 		Account* currentAccount;
 		
 	public:
-		ATM()
+		ATM() {
+		}
 };
