@@ -67,4 +67,5 @@ class ATM {
 		ATM() {
 			currentAccount = nullptr;
 		}
+		
 };
