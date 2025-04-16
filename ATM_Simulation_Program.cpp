@@ -65,5 +65,6 @@ class ATM {
 		
 	public:
 		ATM() {
+			
 		}
 };
