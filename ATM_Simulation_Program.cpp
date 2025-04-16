@@ -64,4 +64,5 @@ class ATM {
 		Account* currentAccount;
 		
 	public:
+		ATM
 };
