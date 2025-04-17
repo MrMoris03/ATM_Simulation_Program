@@ -68,5 +68,5 @@ class ATM {
 			currentAccount = nullptr;
 		}
 		
-		void addAccount(string)
+		void addAccount(string hol)
 };
