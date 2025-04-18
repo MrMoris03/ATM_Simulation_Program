@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Account class
+
 class Account {
 	private:
 		string accountHolder;	//Person with access to current account
