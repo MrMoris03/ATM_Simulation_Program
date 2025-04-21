@@ -69,6 +69,6 @@ class ATM {
 		}
 		
 		void addAccount(string holder, string pin, double initialBalance) {
-			accounts.emplace_back(holder, pin, initialBala)
+			accounts.emplace_back(holder, pin, initialBalance)
 		}
 };
