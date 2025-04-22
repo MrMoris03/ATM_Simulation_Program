@@ -73,7 +73,7 @@ class ATM {
 		}
 		
 		bool login(string holders, string pin) {
-			for (auto &account) {
+			for (auto &account ) {
 				
 			}
 		}
