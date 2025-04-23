@@ -74,7 +74,8 @@ class ATM {
 		
 		bool login(string holders, string pin) {
 			for (auto &account :) {
-				if (account.verifyPin(Pin)) 
+				if (account.verifyPin(Pin)) {
+				}
 			}
 		}
 };
