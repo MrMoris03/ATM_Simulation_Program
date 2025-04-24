@@ -76,7 +76,7 @@ class ATM {
 			for (auto &account :) {
 				if (account.verifyPin(Pin)) {
 					currentAccount = &account;
-					co
+					cou
 				}
 			}
 		}
