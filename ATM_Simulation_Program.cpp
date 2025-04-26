@@ -76,7 +76,7 @@ class ATM {
 			for (auto &account :) {
 				if (account.verifyPin(Pin)) {
 					currentAccount = &account;
-					cout << "Welcome, " << holder << "!" << end
+					cout << "Welcome, " << holder << "!" << endl
 				}
 			}
 		}
