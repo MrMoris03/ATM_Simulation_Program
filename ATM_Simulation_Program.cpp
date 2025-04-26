@@ -80,6 +80,6 @@ class ATM {
 					return true;
 				}
 			}
-			c
+			co
 		}
 };
