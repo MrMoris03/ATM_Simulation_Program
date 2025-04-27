@@ -80,6 +80,6 @@ class ATM {
 					return true;
 				}
 			}
-			cout << "Invalid credentials! Please try aga"
+			cout << "Invalid credentials! Please try agai"
 		}
 };
