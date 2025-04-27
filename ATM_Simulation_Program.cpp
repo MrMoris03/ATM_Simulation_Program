@@ -80,6 +80,6 @@ class ATM {
 					return true;
 				}
 			}
-			cout << "Invalid credentia"
+			cout << "Invalid credential"
 		}
 };
