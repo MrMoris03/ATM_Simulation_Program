@@ -84,5 +84,5 @@ class ATM {
 			return false;
 		}
 		
-		void log
+		void logo
 };
