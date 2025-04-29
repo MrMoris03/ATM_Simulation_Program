@@ -84,5 +84,5 @@ class ATM {
 			return false;
 		}
 		
-		void logo
+		void logou
 };
