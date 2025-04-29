@@ -84,5 +84,6 @@ class ATM {
 			return false;
 		}
 		
-		void logout ()
+		void logout () {
+		}
 };
