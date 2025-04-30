@@ -86,5 +86,6 @@ class ATM {
 		
 		void logout () {
 			currentAccount = nullptr;
+			
 		}
 };
