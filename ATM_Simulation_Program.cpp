@@ -90,6 +90,6 @@ class ATM {
 		}
 		
 		void run() {
-			if (curren)
+			if (current)
 		}
 };
