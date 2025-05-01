@@ -86,6 +86,6 @@ class ATM {
 		
 		void logout () {
 			currentAccount = nullptr;
-			cout << "Logged out successfully!" << end
+			cout << "Logged out successfully!" << endl
 		}
 };
