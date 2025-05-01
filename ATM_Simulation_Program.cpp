@@ -89,5 +89,5 @@ class ATM {
 			cout << "Logged out successfully!" << endl;
 		}
 		
-		voi
+		void
 };
