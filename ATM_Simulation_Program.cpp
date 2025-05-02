@@ -91,7 +91,7 @@ class ATM {
 		
 		void run() {
 			if (currentAccount == nullptr) {
-				cout << "No use"
+				cout << "No user"
 			}
 		}
 };
