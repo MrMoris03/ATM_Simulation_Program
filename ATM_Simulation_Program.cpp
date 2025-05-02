@@ -91,7 +91,7 @@ class ATM {
 		
 		void run() {
 			if (currentAccount == nullptr) {
-				cou
+				cout
 			}
 		}
 };
