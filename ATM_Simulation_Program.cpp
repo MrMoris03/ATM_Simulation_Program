@@ -90,6 +90,7 @@ class ATM {
 		}
 		
 		void run() {
-			if (currentAccount == nullptr)
+			if (currentAccount == nullptr) {
+			}
 		}
 };
