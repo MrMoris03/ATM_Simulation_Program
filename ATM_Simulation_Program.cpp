@@ -90,6 +90,6 @@ class ATM {
 		}
 		
 		void run() {
-			if (currentAcc)
+			if (currentAcco)
 		}
 };
