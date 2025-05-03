@@ -94,5 +94,6 @@ class ATM {
 				cout << "No user logged in!" << endl;
 				return;
 			}
+			
 		}
 };
