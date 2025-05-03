@@ -92,6 +92,7 @@ class ATM {
 		void run() {
 			if (currentAccount == nullptr) {
 				cout << "No user logged in!" << endl;
+				
 			}
 		}
 };
