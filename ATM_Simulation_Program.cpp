@@ -96,5 +96,6 @@ class ATM {
 			}
 			
 			int choice;
+			
 		}
 };
