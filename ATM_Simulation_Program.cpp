@@ -95,6 +95,6 @@ class ATM {
 				return;
 			}
 			
-			int cho
+			int choi
 		}
 };
