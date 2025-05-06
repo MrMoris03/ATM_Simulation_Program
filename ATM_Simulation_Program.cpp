@@ -98,7 +98,7 @@ class ATM {
 			int choice;
 			do{
 				cout << "\nATM Menu:\n";
-				cout << "1. Check Balance\n"
+				cout << "1. Check Balance\n";
 			}
 		}
 };
