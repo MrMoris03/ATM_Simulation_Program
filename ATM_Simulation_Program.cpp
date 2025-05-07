@@ -99,7 +99,7 @@ class ATM {
 			do{
 				cout << "\nATM Menu:\n";
 				cout << "1. Check Balance\n";
-				cout << "2. Deposit Mon"
+				cout << "2. Deposit Mone"
 			}
 		}
 };
