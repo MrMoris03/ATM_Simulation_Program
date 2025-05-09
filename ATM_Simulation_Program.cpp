@@ -101,7 +101,7 @@ class ATM {
 				cout << "1. Check Balance\n";
 				cout << "2. Deposit Money\n";
 				cout << "3. Withdraw Money\n";
-				cout << "4. View Transac\n";
+				cout << "4. View Transact\n";
 			}
 		}
 };
