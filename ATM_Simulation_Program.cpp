@@ -102,7 +102,7 @@ class ATM {
 				cout << "2. Deposit Money\n";
 				cout << "3. Withdraw Money\n";
 				cout << "4. View Transaction History\n";
-				cout << "5. Lo"
+				cout << "5. Log"
 			}
 		}
 };
