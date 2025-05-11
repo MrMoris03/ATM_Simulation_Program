@@ -104,7 +104,7 @@ class ATM {
 				cout << "4. View Transaction History\n";
 				cout << "5. Logout\n";
 				cout <<	"Enter your choice: ";
-				cin >> choi
+				cin >> choic
 			}
 		}
 };
