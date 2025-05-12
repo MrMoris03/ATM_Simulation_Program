@@ -107,7 +107,7 @@ class ATM {
 				cin >> choice;
 				
 				switch (choice) {
-					ca
+					cas
 				}
 			}
 		}
