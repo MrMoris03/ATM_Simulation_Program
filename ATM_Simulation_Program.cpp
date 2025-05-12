@@ -107,7 +107,7 @@ class ATM {
 				cin >> choice;
 				
 				switch (choice) {
-					case 1
+					case 1:
 				}
 			}
 		}
