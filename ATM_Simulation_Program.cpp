@@ -105,6 +105,7 @@ class ATM {
 				cout << "5. Logout\n";
 				cout <<	"Enter your choice: ";
 				cin >> choice;
+				
 			}
 		}
 };
