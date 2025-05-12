@@ -106,7 +106,7 @@ class ATM {
 				cout <<	"Enter your choice: ";
 				cin >> choice;
 				
-				switch (cho)
+				switch (choi)
 			}
 		}
 };
