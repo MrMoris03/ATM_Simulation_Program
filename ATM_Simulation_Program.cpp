@@ -108,7 +108,7 @@ class ATM {
 				
 				switch (choice) {
 					case 1:
-						cout << "Current Balance: $" << currentAccount -> checkBalanc
+						cout << "Current Balance: $" << currentAccount -> checkBalance
 				}
 			}
 		}
