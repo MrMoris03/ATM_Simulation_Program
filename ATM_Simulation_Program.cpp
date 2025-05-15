@@ -110,7 +110,7 @@ class ATM {
 					case 1:
 						cout << "Current Balance: $" << currentAccount -> checkBalance() << endl;
 						break;
-					
+					c
 				}
 			}
 		}
