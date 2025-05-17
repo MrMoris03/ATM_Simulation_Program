@@ -112,7 +112,7 @@ class ATM {
 						break;
 					case 2: {
 						double depositAmount;
-						cout << "Enter amount to depos"
+						cout << "Enter amount to deposi"
 						break;
 					}
 						
