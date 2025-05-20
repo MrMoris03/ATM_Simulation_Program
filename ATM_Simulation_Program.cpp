@@ -119,7 +119,7 @@ class ATM {
 					}
 					case 3: {
 						
-						bre
+						brea
 					}	
 				}
 			}
