@@ -114,7 +114,7 @@ class ATM {
 						double depositAmount;
 						cout << "Enter amount to deposit: ";
 						cin >> depositAmount;
-						currentAccount->deposit(deposit)
+						currentAccount->deposit(depositA)
 						break;
 					}
 						
