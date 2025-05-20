@@ -117,7 +117,7 @@ class ATM {
 						currentAccount->deposit(depositAmount);
 						break;
 					}
-					case 	
+					case 3	
 				}
 			}
 		}
