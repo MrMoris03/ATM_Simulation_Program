@@ -118,7 +118,7 @@ class ATM {
 						break;
 					}
 					case 3: {
-						doub
+						doubl
 						break;
 					}	
 				}
