@@ -119,7 +119,7 @@ class ATM {
 					}
 					case 3: {
 						double withdrawalAmount;
-						cout << "Enter amount to withdraw: "
+						cout << "Enter amount to withdraw: ";
 						break;
 					}	
 				}
