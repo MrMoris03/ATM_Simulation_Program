@@ -121,6 +121,7 @@ class ATM {
 						double withdrawalAmount;
 						cout << "Enter amount to withdraw: ";
 						cin >> withdrawalAmount;
+						
 						break;
 					}	
 				}
