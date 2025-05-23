@@ -120,7 +120,7 @@ class ATM {
 					case 3: {
 						double withdrawalAmount;
 						cout << "Enter amount to withdraw: ";
-						cin >> withdrawa
+						cin >> withdrawal
 						break;
 					}	
 				}
