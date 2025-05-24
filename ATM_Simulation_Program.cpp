@@ -121,7 +121,7 @@ class ATM {
 						double withdrawalAmount;
 						cout << "Enter amount to withdraw: ";
 						cin >> withdrawalAmount;
-						currentAccount->withdraw()
+						currentAccount->withdraw(w)
 						break;
 					}	
 				}
